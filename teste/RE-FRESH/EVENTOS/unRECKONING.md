@@ -1,0 +1,1 @@
+ O Rei Branco está desaparecido, e junto foi seu Scepter. 

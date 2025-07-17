@@ -1,0 +1,1 @@
+morto, corpo despedaçado

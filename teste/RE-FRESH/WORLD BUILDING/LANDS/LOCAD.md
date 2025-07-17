@@ -1,0 +1,16 @@
+## LAND OF COLD AND DARKNESS
+
+A Terra prometida a [Knight of Time.](obsidian://open?vault=teste&file=RE-FRESH%2FPERSONAGENS%2FKIDS%2FNyakko%20Meowny)
+
+**LOCAD** é uma Terra composta por uma superfície monótona dividida apenas perante a aparição de **Vilas** ou **Florestas**, estando muitas vezes estritamente dividido entre cada. Ambos não apresentam características focais, quase que em uma repetição nauseante, apenas variando pela degradação que demarca textura nas paredes das pequenas casas das vilas, as mesmas feitas só de pedregulho e madeira bruta. Entretanto, isso tudo se torna uma distração na frente da **Escuridão** que assola toda a terra, tão intensa e densa que nada pode ser visto a um braço de distância caso o aventureiro não se prepare de acordo. O único escape é a iluminação da **Centrífuga**, no centro de toda essa terra, circundando seu próprio eixo infinitamente em um ritmo lento, fixo e arrastado. O mesmo movimento que lhe da nome energiza os dutos com valor e simultaneamente os transforma em eletricidade para os postes espalhados na Terra, enfeitando as cidades com o suficiente para navegar, acompanhando a dança da fábrica. Não há mais o que ver em LOCAD.
+ Esse lugar originalmente não era uma terra escura. Ao contrário, a **Land of Dance and Clicks** **(LODAC)** poderia ter chegado a ser a terra mais vívida de sua sessão, mas todos os planos foram cobertos pela **Fumaça** da centrífuga - trabalhando além do que era planejado para iluminar mais do que precisava. Isso afundou as cidades em fumaça, emanando dos próprios postes, e escureceu cada quarteirão que conseguiu esticar seus braços, arrancando também as cores que caracterizavam sua terra. Mesmo assim, esperavam a chegada de um novo Herói para os salvar.
+
+Diante da influência enigmática de **Hephaestus**, o **Tempo** nunca soube quando parar em LODAC. A **Centrífuga**, o **Artefato de Scratch**, alimentou a **Terra** com sua **Fumaça** até que tenha consumido tudo de si, sobrando apenas sua **Escuridão**. Os consorts **Temem** essa era sombria, e se **Trancam** em suas casas, permitindo que o mundo **Degrade**, onde o **Denizen** não pode mais observar a Terra. A **Knight of Time** terá o dever de **Destruir** a **Centrífuga** como ela é agora, apagando a última **Luz** que sobrou na terra, para permitir o nascimento de um **Novo Ritmo** e firmar o caminho para enfrentar seu **Denizen** com sua própria chama.
+A **Centrífuga** desliga com um mecanismo já preparado para trancar suas engrenagens, perfeitamente oferecido desde a primeira entrada da jogadora, mas com um custo: Com o **Ritmo** destruído, a **Knight of Time** estará sobre a responsabilidade de reintroduzir uma forma da **Terra** voltar a **Cantar**, aprendendo cada lugar para os **Unir** no mesmo **Ritmo**. Todas são partes distorcidas de uma mesma música, representando **Eventos Ondulatórios**, mas representando na história deixada naquele local. No final, Nyakko sempre vai conseguir algum padrão musical para construir uma música dentro da **Centrífuga** que vai a retornar a vida, iluminando a terra.
+#### **QUEST: Toque a Décima Sinfonia
+ZONA 1:
+ZONA 2:
+ZONA 3:
+ZONA 4:
+ZONA 5:
+DENIZEN:
