@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "80e27829602b564c",
+    "id": "d6ccde4768428531",
     "type": "split",
     "children": [
       {
-        "id": "208e7da51e2150a9",
+        "id": "694e93abe8fe022e",
         "type": "tabs",
         "children": [
           {
-            "id": "b7241b94ec819e39",
+            "id": "f6398235db6e7157",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/RE-FRESH/sketchs.md",
+                "file": "teste/RE-FRESH/EVENTOS/SBURB+.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sketchs"
+              "title": "SBURB+"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3cb029fbc231b1cf",
+    "id": "eddf95fd49016a5c",
     "type": "split",
     "children": [
       {
-        "id": "88f77c4573663c4a",
+        "id": "3f86fecc0f1fa533",
         "type": "tabs",
         "children": [
           {
-            "id": "55022a9ecfeb9bec",
+            "id": "7de9681234764afb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "85ba528b9137bed7",
+            "id": "480a2eae651ea86b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6fdae5906cc74cfc",
+            "id": "a3c78ed744e42bd9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "12284e977c80e3b2",
+    "id": "df05f1570f3b5909",
     "type": "split",
     "children": [
       {
-        "id": "16604bfb7d0c1e14",
+        "id": "51912a684ac948e6",
         "type": "tabs",
         "children": [
           {
-            "id": "09570d919acefcf6",
+            "id": "3936a9dcdeda9a50",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste/RE-FRESH/WORLD BUILDING/+EARTH.md",
+                "file": "teste/RE-FRESH/EVENTOS/SBURB+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for +EARTH"
+              "title": "Backlinks for SBURB+"
             }
           },
           {
-            "id": "280df9f561c33686",
+            "id": "ad608ba030373f5a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste/RE-FRESH/WORLD BUILDING/+EARTH.md",
+                "file": "teste/RE-FRESH/EVENTOS/SBURB+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from +EARTH"
+              "title": "Outgoing links from SBURB+"
             }
           },
           {
-            "id": "7d60407b55d133e7",
+            "id": "956a8736a9696ff2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "27b4486c3a8341af",
+            "id": "93bd1020827a905f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste/RE-FRESH/WORLD BUILDING/+EARTH.md",
+                "file": "teste/RE-FRESH/EVENTOS/SBURB+.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of +EARTH"
+              "title": "Outline of SBURB+"
             }
           }
         ]
@@ -168,11 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7241b94ec819e39",
+  "active": "f6398235db6e7157",
   "lastOpenFiles": [
-    "teste/RE-FRESH/EVENTOS/RE-FRESH.md",
-    "teste/RE-FRESH/sketchs.md",
-    "teste/RE-FRESH/WORLD BUILDING/+EARTH.md",
-    "teste/RE-FRESH/EVENTOS/FILTRO.md"
+    "teste/RE-FRESH/sketchs.md"
   ]
 }
