@@ -1,0 +1,1 @@
+alternia possui uma anã branca como sol que está morrendo lentamente, onde o frio é um sentimento constante no planeta. O próprio planeta se mantém 

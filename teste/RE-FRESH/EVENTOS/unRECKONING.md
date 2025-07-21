@@ -1,1 +1,1 @@
- O Rei Branco está desaparecido, e junto foi seu Scepter. 
+ O Scepter do Rei Branco estava quebrado antes da guerra começar. Essa circunstância o exilou de seu reino em troca de uma trégua.
