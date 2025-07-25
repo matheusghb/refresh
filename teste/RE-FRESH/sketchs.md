@@ -35,3 +35,28 @@ Cada Denizen tem algum "bias" de como planeja resolver a questão do EOS.
 ==Rage==: Por conta do EOS só planejar destruir os Horrorterrors, Rage planeja introduzir esse objetivo, matando tudo mas deixando palco para algo restar. 
 ==Void==: Esconder algo que tenha a chance de reconstruir skaia nas mãos dos horrorterrors.
 ==Light==: Descobrir a origem do EOS e arriscar que tenha alguma solução melhor.
+
+A terra original foi reutilizada para a sessão export por exiles da sessão import - EXP (Expired-XenobiosisPrisioner) EBE (Expired-BestowedEarth) EMP (Expired-MellowedPlaces) ETC (Expired-TurningCachectic) - como é esperado que façam em sessões de resultados exóticos, visto que não foram interrompidos. Em adição a isso, eles possuiriam os ambos dos anéis, proveniente da morte de ambas das rainhas na sessão import. 
+
+ Na sessão import, o único objetivo era conseguir uma quantidade imensurável de Grist para conseguir saciar o sapo que viria proveniente do pacto de Echidna, que pediu aos Horrorterrors para conjurar esse girino. Essa quantidade imensa de Grist só seria obtida com maquinários extensos e um processo extremamente longo das quests entregues pelos Denizens, onde mesmo assim só foi o suficiente para impedir que o sapo devore os planetas da Terra, Alternia e Skaia antes de se transformar. Ele engoliu toda a sessão Import de uma vez antes de lentamente absorver tudo dentro de si, deixando só o Page of Heart vivo em Alternia. Ele é dito de ter sido o rei mais poderoso de Alternia, reinando em seu castelo até ser derrotado em batalha com uma morte justa, fazendo isso de propósito para causar uma mudança completa no Coração das pessoas de Alternia. 
+
+Como criar um novo scepter?
+Como vai chegar na sessão?
+O que vai ocorrer com a terra?
+Como derrotar o EOS?
+O que o rei negro fez na terra? Estava diretamente relacionado com as guerras na terra e foi quem enviava os imps para a terra a mando de helphestus.
+O que vai ser o unReckoning? O que vai criar a tensão para apressarem os players a alcançar o scepter?
+Como o GREEN SUN será usado, considerando que não exista até em uma parte avançada da campanha?
+Como SKAIA preparou a sessão sem manipulação temporal?
+O que cada player da sessão import faz?
+	HEIR OF SPACE: Trocou toda a sessão para permitir que os jogadores da sessão export tenham uma chance melhor de vencer EOS, morrendo no processo.
+	SEER OF TIME: Observou o plano da Heir e preparou todos de acordo para guiar os habitantes do próximo universo.
+	WITCH OF MIND: 
+	MAGE OF VOID: Comunicou com os horrorterrors para receber sua verdadeira quest. 
+	SYLPH OF LIGHT: Sua Denizen a deu os materiais necessários para manter todas as quests em seu lucro máximo, oferecendo a oportunidade para saciar o sapo.
+	PAGE OF HEART: Após a sessão, se manteve em Alternia para governar por milénia, sendo o único fuschiablood a se manter por anos, até propositalmente perder para uma revolta e morrer uma morte justa. 
+	THIEF OF HOPE: Roubou os aneis das rainhas.
+	KNIGHT OF RAGE: Foi junto com o Mage of Void para manter conexão com os horrorterrors e receber ainda mais lucro. 
+Como usar a SKAIA desativada?
+O que a SKAIA+ tem de especial?
+

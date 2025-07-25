@@ -1,1 +1,0 @@
-MC é o rei solitário do export de prospit.
