@@ -38,7 +38,9 @@ Cada Denizen tem algum "bias" de como planeja resolver a questão do EOS.
 
 A terra original foi reutilizada para a sessão export por exiles da sessão import - EXP (Expired-XenobiosisPrisioner) EBE (Expired-BestowedEarth) EMP (Expired-MellowedPlaces) ETC (Expired-TurningCachectic) - como é esperado que façam em sessões de resultados exóticos, visto que não foram interrompidos. Em adição a isso, eles possuiriam os ambos dos anéis, proveniente da morte de ambas das rainhas na sessão import. 
 
- Na sessão import, o único objetivo era conseguir uma quantidade imensurável de Grist para conseguir saciar o sapo que viria proveniente do pacto de Echidna, que pediu aos Horrorterrors para conjurar esse girino. Essa quantidade imensa de Grist só seria obtida com maquinários extensos e um processo extremamente longo das quests entregues pelos Denizens, onde mesmo assim só foi o suficiente para impedir que o sapo devore os planetas da Terra, Alternia e Skaia antes de se transformar. Ele engoliu toda a sessão Import de uma vez antes de lentamente absorver tudo dentro de si, deixando só o Page of Heart vivo em Alternia. Ele é dito de ter sido o rei mais poderoso de Alternia, reinando em seu castelo até ser derrotado em batalha com uma morte justa, fazendo isso de propósito para causar uma mudança completa no Coração das pessoas de Alternia. 
+ Na sessão import, o único objetivo era conseguir uma quantidade imensurável de Grist para conseguir saciar o sapo que viria proveniente do pacto de Echidna, que pediu aos Horrorterrors para conjurar esse girino. Essa quantidade imensa de Grist só seria obtida com maquinários extensos e um processo extremamente longo das quests entregues pelos Denizens, onde mesmo assim só foi o suficiente para impedir que o sapo devore os planetas da Terra, Alternia e Skaia antes de se transformar. Ele engoliu toda a sessão Import de uma vez antes de lentamente absorver tudo dentro de si, deixando só o Page of Heart vivo em Alternia.
+
+
 
 Como criar um novo scepter?
 Como vai chegar na sessão?
@@ -50,13 +52,13 @@ Como o GREEN SUN será usado, considerando que não exista até em uma parte ava
 Como SKAIA preparou a sessão sem manipulação temporal?
 O que cada player da sessão import faz?
 	HEIR OF SPACE: Trocou toda a sessão para permitir que os jogadores da sessão export tenham uma chance melhor de vencer EOS, morrendo no processo.
-	SEER OF TIME: Observou o plano da Heir e preparou todos de acordo para guiar os habitantes do próximo universo.
-	WITCH OF MIND: 
+	SEER OF TIME: Se isolou, deixando só guias para todos antes de desaparescer. Esses viraram os documentos no conjunto "se eu morrer,".
+	WITCH OF MIND: Era a lider dos jogadores. Ela foi responsvel por interceptar as interações, e foi quem reduziu as influências sentimentais ao máximo para criar uma sessão "perfeita", visto que eram a base para a próxima. 
 	MAGE OF VOID: Comunicou com os horrorterrors para receber sua verdadeira quest. 
 	SYLPH OF LIGHT: Sua Denizen a deu os materiais necessários para manter todas as quests em seu lucro máximo, oferecendo a oportunidade para saciar o sapo.
-	PAGE OF HEART: Após a sessão, se manteve em Alternia para governar por milénia, sendo o único fuschiablood a se manter por anos, até propositalmente perder para uma revolta e morrer uma morte justa. 
+	PAGE OF HEART: Após a sessão, se manteve em Alternia para governar por milénia, sendo o único fuschiablood a se manter por anos, até propositalmente perder para uma revolta e morrer uma morte justa. O Page sobreviveu ao Último Sapo por conta da sua potência imensa de alma. 
 	THIEF OF HOPE: Roubou os aneis das rainhas.
-	KNIGHT OF RAGE: Foi junto com o Mage of Void para manter conexão com os horrorterrors e receber ainda mais lucro. 
+	KNIGHT OF RAGE: Foi junto com o Mage of Void para manter conexão com os horrorterrors e receber ainda mais lucro. No final, matou todos (em excessão do Page, que matou ele) para impedir o resultado que os horrorterrors trariam em suas almas. 
 Como usar a SKAIA desativada?
 O que a SKAIA+ tem de especial?
 
