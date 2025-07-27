@@ -9,9 +9,15 @@ Exiles import:
 Exiles export:
 	RD - righteousDenizen (rei branco)
 	DR - dauntingRiddence (rei preto)
-	peão preto 1
-	peão preto 2
-	peão preto 3
-	peão branco 1
-	peão branco 2
-	peão branco 3
+	-
+	peões pretos
+	XP - xeroxPryer
+	PX - paleXebec
+	BE - balisticEnabler
+	EB - endingBalance
+	-
+	peões brancos
+	MP - makeshipPalace
+	PM - pendingMace
+	TC - tonicChaser
+	CT - cacophonyTerm

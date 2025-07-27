@@ -64,7 +64,7 @@ O que cada player da sessão import faz?
 	MAGE OF VOID: Comunicou com os horrorterrors para receber sua verdadeira quest. 
 	SYLPH OF LIGHT: Sua Denizen a deu os materiais necessários para manter todas as quests em seu lucro máximo, oferecendo a oportunidade para saciar o sapo.
 	PAGE OF HEART: Após a sessão, se manteve em Alternia para governar por milênio, sendo o único fuschiablood a se manter por anos, até propositalmente perder para uma revolta e morrer uma morte justa. O Page sobreviveu ao Último Sapo por conta da sua potência imensa de alma. 
-	ROGUE OF HOPE: Roubou os anéis das rainhas para entregar aos exiles. atualmente, estão residindo nos pods da terra.
+	THIEF OF HOPE: Roubou os anéis das rainhas para entregar aos exiles. atualmente, estão residindo nos pods da terra. Tambem foi quem impediu o combate entre prospit e derse por assassinar as rainhas, tanto o espaço necessário para que o page e a sylph destruíssem ambos dos scepters.
 	KNIGHT OF RAGE: Foi junto com o Mage of Void para manter conexão com os horrorterrors e receber ainda mais lucro. No final, matou todos (em exceção do Page, que matou ele) para impedir o resultado que os horrorterrors trariam em suas almas. 
 Como usar a SKAIA desativada?
 O que a SKAIA+ tem de especial?

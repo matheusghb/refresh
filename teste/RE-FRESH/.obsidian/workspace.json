@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sketchs.md",
+                "file": "EVENTOS/FILTRO - Expired-OmnipotentServent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sketchs"
+              "title": "FILTRO - Expired-OmnipotentServent"
             }
           }
         ]
@@ -169,5 +169,13 @@
     }
   },
   "active": "95e3821b65a5aa98",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "EVENTOS/RE-FRESH.md",
+    "EVENTOS/NG+.md",
+    "EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+    "EVENTOS/Entrada no MEDIUM.md",
+    "sketchs.md",
+    "PERSONAGENS/CARASPACIANS.md",
+    "PERSONAGENS/IMPORT KIDS.md"
+  ]
 }
