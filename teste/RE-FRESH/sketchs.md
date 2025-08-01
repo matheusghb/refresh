@@ -78,3 +78,15 @@ havera uma espada flamejante com o poder de estagnar ou negar entrada
 big slurp
 big rip -> big freeze
 big crunch -> big bounce
+
+A jornada começa SEM UMA TIMELINE ALPHA. A partir do momento que alcançarem o Medium, vão estar em sessões diferentes com pessoas diferentes (4 em uma e 4 em outra com versões alternativas), mas nenhum deles vai notar. Isso se da ao fato que Skaia não possuía métodos para preparar a sessão naturalmente, então utilizou de timelines doomed para permitir que eles ao menos alcancem suas Lands, mas precisando eventualmente resolver isso com uma "troca de disco" (knight of time e knight of mind sendo responsáveis por isso). As versões doomed vão morrer nesse processo, trocando a consciência dos dreamselves com as versões reais e permitindo que apenas os "reais" sobrem.
+
+idriss A
+stella A
+morian A
+marie A
+
+vrastz B
+nyakko B
+nora B
+nigel B
