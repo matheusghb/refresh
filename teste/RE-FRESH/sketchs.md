@@ -13,14 +13,6 @@ A terra exilada será usada pelo rei branco para reconstruir um novo scepter qua
 
 Nigel vai conduzir o caminho para as informações sobre o Filtro sejam descobertas e, por tabela, um método para destruir ele. Ao mesmo tempo, os horrorterrors vão se opor a isso, desejando a própria destruição, e irão antagonizar o Nigel por eventos de má sorte. O Nigel vai receber muitas informações falsas que podem o distrair da rota correta da sessão, já que os horrorterrors tomaram interesse nele.
 
-Heknox se encontrara extremamente cedo com a situação catastrófica da sessão, especificamente por sua Land ter um rei suicida, onde só quebrar tudo não vai resolver.
-
-Marie vai dar o espaço para o Filtro se locomover e, possivelmente, a forma física para que ele possa ser derrotado.
-
-Stella terá a função de "curar a esperança" da sessão por remediar o planejamento entre os Denizens, prospit e derse, que construíram todos os planos com base na total destruição do universo, visto que Skaia não poderia prever uma vitória. Assim, ela vai ser importante para obter a informação crucial para trazer o plano para a prática (por obter objetos mágicos).
-
-A falta de Mind e Time é representada pela sessão "deslocada", tendo uma rota da Rainha Branca e uma rota da Rainha Negra. A Rainha Branca representa a opção de salvar o que já temos (então tomando um método mais técnico para ultrapassar o Filtro) e a Rainha Negra representa a opção de destruir o máximo que podemos para construir o novo (então criar uma arma de destruição total que vá se soltar de Skaia e manter a existência em um outro lugar), mas só podendo ter efeito prático após o unRECKONING.
-
 o rei branco influenciou a própria criação da terra por ser aquele que criou o LUCA (Last Universal Common Ancestor), dois girinos (um branco e um preto) que criariam toda a vida na terra. 
 
 Alternia esta presente no sistema solar do universo import, onde os asteroides são pedaços do planeta anterior. 
@@ -40,7 +32,7 @@ A terra original foi reutilizada para a sessão export por exiles da sessão imp
 
  Na sessão import, o único objetivo era conseguir uma quantidade imensurável de Grist para conseguir saciar o sapo que viria proveniente do pacto de Echidna, que pediu aos Horrorterrors para conjurar esse girino. Essa quantidade imensa de Grist só seria obtida com maquinários extensos e um processo extremamente longo das quests entregues pelos Denizens, onde mesmo assim só foi o suficiente para impedir que o sapo devore os planetas da Terra, Alternia e Skaia antes de se transformar. Ele engoliu toda a sessão Import de uma vez antes de lentamente absorver tudo dentro de si, deixando só o Page of Heart vivo em Alternia.
 
- O sapo é substituído por uma cobra-cega que absorve a sessão e cria a nova da mesma forma que o sapo. Entretanto, essa mesma sessão está fadada a destruição quando esse mesmo universo se implodir dentro de um tempo fixo para apagar tudo o que houver nele. Isso conclui o plano pessoal dos horrorterrors de destruir absolutamente toda a existência antes de EOS os alcançar, impedindo que eles sejam destruídos por (momentaneamente) deixarem de existir mas supostamente podendo retornar posteriormente, mas apenas para manter suas existências singulares.
+ O sapo é substituído por uma cobra-cega que absorve a sessão e cria a nova da mesma forma que o sapo. Entretanto, essa mesma sessão está fadada a destruição quando esse mesmo universo se implodir dentro de um tempo fixo para apagar tudo o que houver nele. Isso conclui o plano pessoal dos horrorterrors de destruir absolutamente toda a existência antes de EOS os alcançar, impedindo que eles sejam destruídos por (momentaneamente) deixarem de existir mas supostamente podendo retornar posteriormente, mas apenas para manter suas existências singulares. Por conta da criação especial da sessão, todos os seus consorts são insetos.
 
  Os atos devem seguir esse modelo:
  Ato 1: Lua + Mercúrio (Horaios (Time) + Elaios (Light))
@@ -74,10 +66,6 @@ Skaia é a representação do anima mundi, a "alma" da existência. Dessa forma,
 O scepter vai ser criado por meio da pedra filosofal, uma relíquia criada na terra 
 
 havera uma espada flamejante com o poder de estagnar ou negar entrada
-
-big slurp
-big rip -> big freeze
-big crunch -> big bounce
 
 A jornada começa SEM UMA TIMELINE ALPHA. A partir do momento que alcançarem o Medium, vão estar em sessões diferentes com pessoas diferentes (4 em uma e 4 em outra com versões alternativas), mas nenhum deles vai notar. Isso se da ao fato que Skaia não possuía métodos para preparar a sessão naturalmente, então utilizou de timelines doomed para permitir que eles ao menos alcancem suas Lands, mas precisando eventualmente resolver isso com uma "troca de disco" (knight of time e knight of mind sendo responsáveis por isso). As versões doomed vão morrer nesse processo, trocando a consciência dos dreamselves com as versões reais e permitindo que apenas os "reais" sobrem.
 
