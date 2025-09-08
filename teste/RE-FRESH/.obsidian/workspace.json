@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORLD BUILDING/+SKAIA.md",
+                "file": "PERSONAGENS/IMPORT KIDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "+SKAIA"
+              "title": "IMPORT KIDS"
             }
           }
         ],
@@ -186,8 +186,8 @@
   },
   "active": "54d649354672d06c",
   "lastOpenFiles": [
-    "PERSONAGENS/IMPORT KIDS.md",
     "WORLD BUILDING/+SKAIA.md",
+    "PERSONAGENS/IMPORT KIDS.md",
     "PERSONAGENS/KIDS/Stella Hellian.md",
     "EVENTOS/SBURB+.md",
     "sketchs.md",
