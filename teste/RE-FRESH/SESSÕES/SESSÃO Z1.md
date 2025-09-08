@@ -1,0 +1,1 @@
+ Sessão não canon. Todos devem ultrapassar o desafio randomizado para alcançar seu disco.
