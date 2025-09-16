@@ -39,4 +39,5 @@ One should expect use of insight.
 stella: Contact an enraged lusus in an abandoned house. One should expect use of medicine.
 
 	Ato 1:
-	
+
+elliot:

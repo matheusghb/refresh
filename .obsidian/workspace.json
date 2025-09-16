@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md",
+                "file": "teste/RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SESSÃO Z1"
+              "title": "IMPORT KIDS"
             }
           }
         ]
@@ -170,5 +170,16 @@
     }
   },
   "active": "e262da90ae01989a",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "teste/RE-FRESH/WORLD BUILDING/+SKAIA.md",
+    "teste/RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
+    "teste/RE-FRESH/EVENTOS/SBURB+.md",
+    "arquivo deles.md",
+    "teste/RE-FRESH/EVENTOS/RE-FRESH.md",
+    "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+    "teste/RE-FRESH/EVENTOS/Entrada no MEDIUM.md",
+    "teste/RE-FRESH/EVENTOS/NG+.md",
+    "teste/RE-FRESH/sketchs.md",
+    "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md"
+  ]
 }
