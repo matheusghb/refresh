@@ -78,3 +78,5 @@ vrastz B
 nyakko B
 nora B
 nigel B
+
+O EOS não pode ser derrotado, deve ser controlado para negar seu perigo. A única solução é "retroceder" a temperatura a níveis negativos para reintroduzir o corpo entrópico para a quarta dimensão mas deixar o EOS nessa realidade, mesmo que mais poderoso (quando as temperaturas chegam abaixo do zero absoluto, diminuem a quantidade de estados possíveis e por tabela a entropia de forma definitiva). Isso será feito ao reverter a sua posição no tempo ao ponto antes de sua origem, de inexistência.
