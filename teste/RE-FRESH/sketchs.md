@@ -78,3 +78,7 @@ vrastz B
 nyakko B
 nora B
 nigel B
+
+FOCO: selar o EOS permanentemente, onde seus efeitos não podem mais interferir na linha do tempo e perca qualquer acesso a poderes extradimensionais, sendo assim seria encontrar uma maneira de ir abaixo do valor fundamental de energia. e verdadeiramente alcançar o zero absoluto. Mas invés disso a solução virá de
+
+Como se sabe, alcançar

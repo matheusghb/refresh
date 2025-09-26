@@ -1,10 +1,10 @@
 Darla Goliath (EGM Expired-galacticMannerism)
 	Heir Of Space, prospit - Ancestor da Marie
-		Morreu no início de sua sessão, para saciar a Escolha de Echidna e permitir que o Terrible Slick seja criado, mas em troca forçando com que a sessão se torne nula. Atualmente está esperando derrotarem a Minhoca incluída na sessão Import para voltar a fazer parte.
+		Morreu no início de sua sessão, para saciar a Escolha de Echidna e permitir que o Terrible Slick seja criado, mas em troca forçando com que a sessão se torne nula. Atualmente está esperando derrotarem a minhoca incluída na sessão Import para voltar a fazer parte.
 	
 Konaky Yownem (EDA Expired-damnationAddict)
 	Seer of Time, oliveblood, derse - Ancestor da Nyakko
-		Recebeu o plano de Helphestus para paralizar Skaia com EOS dentro para evitar a materialização de [EOS](obsidian://open?vault=RE-FRESH&file=EVENTOS%2FFILTRO%20-%20Expired-OmnipotentServent) dentro o sistema externo de Skaia, usando então essa sessão como "isca". Esteve sumida por toda a sessão, ouvindo as palavras de Helphaestus e esperando até o scratch para iniciar o processo de selamento utilizando do conceito do zero absoluto.
+		Recebeu o plano de Helphestus para paralizar Skaia com EOS dentro para evitar a materialização de [EOS](obsidian://open?vault=RE-FRESH&file=EVENTOS%2FFILTRO%20-%20Expired-OmnipotentServent) dentro o sistema externo de Skaia, usando então essa sessão como "isca". Esteve sumida por toda a sessão, ouvindo as palavras de Helphaestus e esperando até o scratch para iniciar o processo de selamento utilizando do conceito do zero absoluto, que estaria presente no centro do planeta.
 	
 Leginn Sewlls (ENI Expired-negociableInteriors)
 	Knight of Void, rustblood, derse - Ancestor do Nigel
@@ -24,8 +24,12 @@ Lalest Neihla (EFS Expired-fowardSpeeding)
 	
 Traz Kareff (EPJ Expired-potentJaleo)
 	Mage of Rage, prospit - Ancestor do Vrastz
-		Inverteu para um Heir of Hope, agindo com base na crença de pura positividade. No final, matou todos os seus amigos para evitar que o Terrible Slick consuma suas mentes. Foi o responsável por assassinar o rei branco antes da hora, deixando a maid of hope com o scepter. 
+		Inverteu para um Heir of Hope, agindo com base na crença de pura positividade. No final, matou todos os seus amigos para evitar que o Terrible Slick consuma suas mentes, como o knight of void lhe avisou. Foi o responsável por assassinar o rei branco antes da hora, deixando a maid of hope com o scepter. 
 	
 Drisix Sudis (EDS Expired-denouncedSense)
 	Page of Heart, fuschiablood, derse - Ancestor do Idriss
 		Se manteve por muito tempo entre os crustacians e foi quem teria tomado o trono do rei branco para liderar as nações durante a queda do rei negro. Por mais que tenha começado como uma bagunça, o auxílio do mage of rage permitiu que o page alcançasse sua melhor versão.
+
+ENI <>< EPJ <3 EDS 
+EJN c3< EFS <3< EVC <3> EDA
+EPJ >c3< ENI <3 EJN

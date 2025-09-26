@@ -1,33 +1,19 @@
 {
   "main": {
-    "id": "82564c93969bbd7e",
+    "id": "e805c27cca2ff20d",
     "type": "split",
     "children": [
       {
-        "id": "da212977c8fc8d7f",
+        "id": "e7ec1398e81bdf5f",
         "type": "tabs",
         "children": [
           {
-            "id": "95e3821b65a5aa98",
+            "id": "413c2da22cf3c0ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EVENTOS/SBURB+.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SBURB+"
-            }
-          },
-          {
-            "id": "54d649354672d06c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sketchs.md",
+                "file": "RE-FRESH/sketchs.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,22 +21,21 @@
               "title": "sketchs"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "830a24c5949935bc",
+    "id": "6160e664430ae683",
     "type": "split",
     "children": [
       {
-        "id": "5bf4ef78f557a197",
+        "id": "60ef1565a0411f4b",
         "type": "tabs",
         "children": [
           {
-            "id": "c57d74b140a4c7ef",
+            "id": "42670c57fc98589a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "9191565338254d1b",
+            "id": "4a31cf2fd38313d7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "bf09595458143c26",
+            "id": "543fe0b4831937a8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "fdfd03f3b621cb79",
+    "id": "7c584028a9c46469",
     "type": "split",
     "children": [
       {
-        "id": "df956cba13f85173",
+        "id": "8012e561724eb8ee",
         "type": "tabs",
         "children": [
           {
-            "id": "45a308f676535c5d",
+            "id": "37d5148440c6fcbf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sketchs.md",
+                "file": "RE-FRESH/sketchs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +108,12 @@
             }
           },
           {
-            "id": "49181d6daad1c151",
+            "id": "c9f2c81db4e98ab4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sketchs.md",
+                "file": "RE-FRESH/sketchs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +122,7 @@
             }
           },
           {
-            "id": "827242c25e369880",
+            "id": "06fe023f289d8088",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,12 +137,12 @@
             }
           },
           {
-            "id": "42befcdd4f8202ce",
+            "id": "648f692a2366c331",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "sketchs.md",
+                "file": "RE-FRESH/sketchs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,30 +160,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "54d649354672d06c",
-  "lastOpenFiles": [
-    "PERSONAGENS/IMPORT KIDS.md",
-    "SESSÕES/SESSÃO Z1.md",
-    "PERSONAGENS/CARASPACIANS.md",
-    "SESSÕES",
-    "WORLD BUILDING/+SKAIA.md",
-    "PERSONAGENS/KIDS/Stella Hellian.md",
-    "EVENTOS/SBURB+.md",
-    "sketchs.md",
-    "WORLD BUILDING/+ALTERNIA.md",
-    "EVENTOS/FILTRO - Expired-OmnipotentServent.md",
-    "EVENTOS/Entrada no MEDIUM.md",
-    "PERSONAGENS/KIDS/Nora Eugênia.md",
-    "EVENTOS/RE-FRESH.md",
-    "EVENTOS/NG+.md"
-  ]
+  "active": "413c2da22cf3c0ad",
+  "lastOpenFiles": []
 }
