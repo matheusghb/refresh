@@ -79,6 +79,10 @@ nyakko B
 nora B
 nigel B
 
+<<<<<<< HEAD
 FOCO: selar o EOS permanentemente, onde seus efeitos não podem mais interferir na linha do tempo e perca qualquer acesso a poderes extradimensionais, sendo assim seria encontrar uma maneira de ir abaixo do valor fundamental de energia. e verdadeiramente alcançar o zero absoluto. Mas invés disso a solução virá de
 
 Como se sabe, alcançar
+=======
+O EOS não pode ser derrotado, deve ser controlado para negar seu perigo. A única solução é "retroceder" a temperatura a níveis negativos para reintroduzir o corpo entrópico para a quarta dimensão mas deixar o EOS nessa realidade, mesmo que mais poderoso (quando as temperaturas chegam abaixo do zero absoluto, diminuem a quantidade de estados possíveis e por tabela a entropia de forma definitiva). Isso será feito ao reverter a sua posição no tempo ao ponto antes de sua origem, de inexistência.
+>>>>>>> bb1b80ba9cbfcae0c74c7e84ba141ba167bead93
