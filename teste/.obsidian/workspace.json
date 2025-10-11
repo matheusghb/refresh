@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "e4d31a3fb8f37274",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ba387ab8733b5cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f0c88d85fb5f5bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IMPORT KIDS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6c40f5dfb4ce8de",
+    "type": "split",
+    "children": [
+      {
+        "id": "74478160b4052764",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb5ac292a9d67800",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b40fb00aeed3bdb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1ea59470842763e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d87b5e8bab6243d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1285ebf38e8cdf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f63db92b642e66df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RE-FRESH/sketchs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for sketchs"
+            }
+          },
+          {
+            "id": "c28ea45c91859f0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RE-FRESH/sketchs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from sketchs"
+            }
+          },
+          {
+            "id": "d9e82268b9f987bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b39941bddbe2768c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RE-FRESH/sketchs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of sketchs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7f0c88d85fb5f5bc",
+  "lastOpenFiles": [
+    "RE-FRESH/WORLD BUILDING/+EARTH.md",
+    "RE-FRESH/sketchs.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LODAFS.md",
+    "RE-FRESH/WORLD BUILDING/+SKAIA.md",
+    "RE-FRESH/WORLD BUILDING/+PROSPIT & +DERSE.md",
+    "RE-FRESH/PERSONAGENS/KIDS/Idriss Judici.md",
+    "RE-FRESH/PERSONAGENS/KIDS/Marie Macillia.md",
+    "RE-FRESH/PERSONAGENS/KIDS/Vrastz Fernak.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LOSAD.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LORAT.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LOSAS.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LOGAM.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LOTAS.md",
+    "RE-FRESH/WORLD BUILDING/LANDS/LOCAD.md"
+  ]
+}
