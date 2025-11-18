@@ -41,14 +41,14 @@ EFS:
 EPJ: Tasmânia
 EDS: 
 	
-Lalest Neihla (EFS Expired-fowardSpeeding)
-	Maid of Hope, oliveblood, prospit - Ancestor da Stella
+Phil Pilatus (EHE Expired-homunculiExibit)
+	Sylph of Life, oliveblood, Prospit - Ancestor do Ricino
 		Agiu simultaneamente com a Seer para coordenar o time, escrevendo o plano de como ficaria a sessão export, basicamente planejando os planetas enquanto os outros focavam na sessão em mãos. Obteve os aneis da Witch of Light para esse fim, utilizando de suas visões para a inspirar.
 		Sua inversão é a **Bard of Rage.** - 
 EFS: \\~ O lápis representa o que eu estou escrevendo, e eu (~~odeio apagar~~) prefiro riscar meus erros, mas me frusto muito nessa p\*rra. Mas essa negatividade é (~~ruim~~) terrível pra mim, como já ouvi até encher o c\* da bunda, então censuro pra ver se ajuda em alguma coisa. É chato pra c\*aralho, mas me serve. Ajudaria mais se esses f\*didos acompanhassem o exemplo.
 	
-Traz Kareff (EPJ Expired-potentJaleo)
-	Mage of Rage, prospit - Ancestor do Vrastz
+Macs Milennum (EWP Expired-wittyProcessing)
+	Rogue of Doom, Derse - Ancestor da Bellax
 		Inverteu para um Heir of Hope, agindo com base na crença de pura positividade. No final, matou todos os seus amigos para evitar que o Terrible Slick consuma suas mentes, como o knight of void lhe avisou. Foi o responsável por assassinar o rei branco antes da hora, deixando a maid of hope com o scepter. 
 		Sua inversão é o **Heir of Hope.** - 
 EPJ: Não ponto final mas gosto de usar exclamações!!!
