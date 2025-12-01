@@ -1,5 +1,5 @@
 NOME: Ricino Flamel
-PLAYER:
+PLAYER: N/A
 HANDLE hydrogenicExodus (HE)
 SANGUE: Ciano
 PERSONALIDADE:
