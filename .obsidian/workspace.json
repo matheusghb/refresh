@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+                "file": "teste/RE-FRESH/sketchs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FILTRO - Expired-OmnipotentServent"
+              "title": "sketchs"
             }
           }
         ],
@@ -200,6 +200,7 @@
   },
   "active": "7fed334646fca6b0",
   "lastOpenFiles": [
+    "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
     "teste/RE-FRESH/sketchs.md",
     "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
     "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAS.md",
