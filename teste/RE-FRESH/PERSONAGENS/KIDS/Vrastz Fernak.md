@@ -17,3 +17,4 @@ ESTILO ÓDIADO: Puzzle
 ARQUETIPO: Mágico ágil
 CLASSPECT: Thief of Rage, Derse
 LAND: [LOSAS](obsidian://open?vault=teste&file=RE-FRESH%2FWORLD%20BUILDING%2FLANDS%2FLOSAS)
+

@@ -17,7 +17,7 @@ Leginn Sewlls (ENI Expired-negociableIncrements)
    ENI: \_\_Com ENI na sigla, eu só poderia falar de forma ugetgvkxc[2], né ?arrop[<-] Mas eu faço isso de forma bem seletiva, dependendo só de com [17 - 21 - 05 - 13 \ 05 - 19 - 20 - 15 - 21 ][1=A] falando, normalmente optando pelo [<-] para censuras. Sou um pouco defensivo.__
 	
 Sashar Euroh (EJN Expired-justifiableNobles)
-	Witch of Light, limeblood, prospit - Ancestor da Nora
+	Witch of Light, Jadeblood, prospit - Ancestor da Nora
 		Conduziu varias perseguições a tesouros no futherest ring para armazenar o máximo de lucro para obter o unilillypad grist em um processo de overclocking e depois armazenou tudo isso consigo. 
 		Sua inversão é a **Seer of Void.** - O que ela via não parecia explicar o que aconteceu com a Heir, fazendo ela ir atrás dos horrorterrors por respostas, gradualmente. Em experimento após experimento, ela focou demais no que ela precisava achar, e caiu cada vez mais fundo na incompreensão até que ela encontrou o Knight dentro daquele vazio, que teve que a raptar para os horrorterrors. Ela ainda conseguiu questionar os horrorterrors no tempo que esteve lá, achando sanidade na loucura, quando finalmente pode sair com apenas uma receita. Ela que explicou como criar o unililypad grist, mas ao custo de sua humanidade.
 EJN: Eu g)ost)o de c)onversar de f)orma mais <- Esp)orática++ ->, usand)o símb)ol)os da alquimia para expressar cert)os sentiment)os. Ainda assim, mantenho a seriedade em m)oment)os de necessidade. -*
@@ -28,7 +28,7 @@ EJN: Eu g)ost)o de c)onversar de f)orma mais <- Esp)orática++ ->, usand)o símb
 	! = + (simbolo do vinagre)
 	
 Mari Resbata (EVC Expired-vectoredCandidate)
-	Prince of Mind, derse - Ancestor de Morian
+	Prince of Mind, Derse - Ancestor de Morian
 		Fragmentou a Alpha Timeline e sincronizou todas as suas iterações junto aos esforços da seer of time. Criou várias versões doomed e, no fim, só restou duas que se mantiveram perfeitamente iguais até a intromissão da Witch of Light.
 		Sua inversão é a **Sylph of Heart.** - 
 EVC: Tenho um tom constante de sátira dentro das minhas mensagens. Ainda assim, me animo fácil e deixou a brincadeira tomar a dianteira nas palavras! Gosto de dar apelido para todo mundo. 8)
@@ -42,19 +42,13 @@ EPJ: Tasmânia
 EDS: 
 	
 Phil Pilatus (EHE Expired-homunculiExibit)
-	Sylph of Life, oliveblood, Prospit - Ancestor do Ricino
+	Mage of Life, oliveblood, Prospit - Ancestor do Ricino
 		Agiu simultaneamente com a Seer para coordenar o time, escrevendo o plano de como ficaria a sessão export, basicamente planejando os planetas enquanto os outros focavam na sessão em mãos. Obteve os aneis da Witch of Light para esse fim, utilizando de suas visões para a inspirar.
 		Sua inversão é a **Bard of Rage.** - 
-EFS: \\~ O lápis representa o que eu estou escrevendo, e eu (~~odeio apagar~~) prefiro riscar meus erros, mas me frusto muito nessa p\*rra. Mas essa negatividade é (~~ruim~~) terrível pra mim, como já ouvi até encher o c\* da bunda, então censuro pra ver se ajuda em alguma coisa. É chato pra c\*aralho, mas me serve. Ajudaria mais se esses f\*didos acompanhassem o exemplo.
 	
-Macs Milennum (EWP Expired-wittyProcessing)
+Macs Milenum (EWP Expired-wittyProcessing)
 	Rogue of Doom, Derse - Ancestor da Bellax
-		Inverteu para um Heir of Hope, agindo com base na crença de pura positividade. No final, matou todos os seus amigos para evitar que o Terrible Slick consuma suas mentes, como o knight of void lhe avisou. Foi o responsável por assassinar o rei branco antes da hora, deixando a maid of hope com o scepter. 
-		Sua inversão é o **Heir of Hope.** - 
-EPJ: Não ponto final mas gosto de usar exclamações!!!
-E uso quebra de linha pra expressar o ponto, muitas vezes
-eu foco muito em como a frase é sentida enquanto leio como se tivesse com pressa
-Espere muito texto comigo!!!!
+		Criou o Backdoor ao sacrificar o Mage of Life para abrir um 
 	
 Drisix Sudis (EDS Expired-denouncedSense)
 	Page of Heart, fuschiablood, derse - Ancestor do Idriss
@@ -64,5 +58,3 @@ EDS: Sou \* um \* pouco \* frouxo \* e \* recluso \* mas \* não \* deixo \* iss
 Os \* pontos \* finais \* sempre \* vem \* acompanhados \* por \* quebras \* de \* linha.
 E,,,,, \* a \* quantidade \* de \* virgulas \* simboliza \* lentidão \* na \* voz.
 
-
-![[242_Sem_Titulo_20251013202152.webp]]
