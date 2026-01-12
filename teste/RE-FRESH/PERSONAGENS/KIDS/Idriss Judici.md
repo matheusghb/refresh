@@ -14,3 +14,5 @@ ESTILO ÓDIADO: Puzzle
 ARQUETIPO: Físico + Mágico
 CLASSPECT: Prince of Heart
 LAND: [LOSAD](obsidian://open?vault=refresh&file=teste%2FRE-FRESH%2FWORLD%20BUILDING%2FLANDS%2FLOSAD)
+
+Idriss foi filho de pura probabilidade, escolhido a dedo por nada além de chance e egoísmo da parte de seu pai, Flagrm, qual propositalmente isolou a familia para criar ele. Flagrm fez isso por conta do tanto que tenta compensar por conta de que, ele mesmo, possui uma mutação interna que faz com que ele tenha uma condição fatal no coração.

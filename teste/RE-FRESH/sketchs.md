@@ -106,3 +106,47 @@ Todas as crianças vão entrar no medium. ->
 Uma guerra vai se iniciar entre os trolls e os humanos, utilizando de um dispositivo que os permite manipular a realidade que habitam. ->
 o codigo fonte de ALL IN THE HOUSE vai ser encontrado pelo governo -> 
 Um aplicativo chamado ALL IN ON THE HOUSE vai ser espalhado que aparenta ter efeito na realidade, manipulando ela para que o jogo seja a vida real.
+
+morian - derse knight
+nyakko prospit knight
+nora - prospit mage
+idriss - prospit prince
+nigel - derse bard
+bellax - derse/prospit seer
+marie - prospit maid
+vrastz - derse thief
+
+Time A 
+Nigel
+Morian
+Vrastz
+Bellax
+
+Time B
+Nora
+Nyakko
+Idriss
+Marie
+
+JOAQUIM CONTRA MEDIDAS:
+	O descendente de Phil, originalmente Bellax, agora sera anulado já que ele foi incluído dentro do próprio código do jogo agindo como um tipo de jogador fantasma. Ele vai inicialmente "assombrar" a sessão da mesma forma que uma creepypasta, sendo um vilão servindo diretamente como a primeira fagulha de EOS.
+
+Ato 0
+- Vai acontecer 101 semanas antes do dia real do jogo, sendo no dia 06/10/3158 para os humanos e 
+- Nora vai baixar uma demo de um jogo denominado FULL HOUSE que promete ser uma batalha randomizada entre times. O jogo vai ter efeitos randomizados, onde o objetivo é concluído sobre sua interpretação, apresentando o resultado para o jogo e deixando uma inteligência artificial ditar a pontuação.
+- Cada jogo vai dar um ambiente especializado para o jogador, definido perto de sua casa. O jogador ainda pode escolher não ir para o local, mas é decidido com base no que seria mais preciso para a experiência. 
+- Nora vai montar um jogo completo de 8 jogadores com seus amigos e os times serão decididos TAMBÉM aleatoriamente.
+- Evento específicos de cada jogador:
+	- Nora Eugênia: Ela vai ser direcionada a uma das super cidades perto de casa e sua missão vai ser resolvida por de alguma forma conseguir quebrar a climatização artificial. Principalmente, ela vai expor mais das super cidades.
+	- Marie: Marie vai fazer suas missões dentro da própria ilha, descobrindo mais de seu povo.
+	- Nigel: As missões do Nigel vão o direcionar a lugares cada vez mais estranhos, com o maior problema sendo como ele deveria sair dali.
+	- Morian: Muitas das missões de Morian vão se passar dentro de estabelecimentos privados.
+	- Nyakko: Ela terá vários conflitos com moradores locais para conseguir o que quer.
+	- Idriss: Idriss deverá resolver a problemática por, de alguma forma, persuadir um grupo insatisfeito de pessoas a fazer o que deseja.
+	- Vrastz: Se Bellax não estiver presente, Vrastz vai ser quem vai causar a ruptura por perder o dispositivo para uma criatura que vai o quebrar de tal forma que negative a pontuação de todos. Ele deverá resolver suas problemáticas por aprender a mentir. Principalmente, ele deve ser motivado a usar as funcionalidades de furto no sistema.
+	- Bellax: Na sua terceira missão, Bellax vai sofrer algum tipo de "bug" que vai quebrar metade de seu corpo e originar o efeito de sangue duplo. Esse evento vai negativar a pontuação do time completamente.
+- Após 3 sessões, todos vão receber o novo objetivo de "obter seu CD", mas sem um ponto específico. Esse é o fim do ato 0.
+  
+  Ato 1 
+  - Apenas algumas pessoas jogaram a versão demo de FULL HOUSE para fazer parte de um sorteio da versão de completa gratuitamente com conteúdo adicional, enviada para apenas um dos grupos que jogaram o jogo.
+  - 

@@ -1,0 +1,1 @@
+ É um jogo feito pela BASO-FOUR e distribuído mundialmente em parceria com a distribuidora 5+2 TRUMPETS
