@@ -137,13 +137,13 @@ Ato 0
 - Cada jogo vai dar um ambiente especializado para o jogador, definido perto de sua casa. O jogador ainda pode escolher não ir para o local, mas é decidido com base no que seria mais preciso para a experiência. 
 - Nora vai montar um jogo completo de 8 jogadores com seus amigos e os times serão decididos TAMBÉM aleatoriamente.
 - Evento específicos de cada jogador:
-	- Nora Eugênia: Ela vai ser direcionada a uma das super cidades perto de casa e sua missão vai ser resolvida por de alguma forma conseguir quebrar a climatização artificial. Principalmente, ela vai expor mais das super cidades.
+	- Nora Eugênia: Ela vai ser direcionada a uma das super cidades perto de casa e sua missão vai ser resolvida por de alguma forma conseguir quebrar a climatização artificial. Principalmente, ela vai expor mais das super cidades. Supostamente, seria durante esse jogo que ela desperta o dreamself.
 	- Marie: Marie vai fazer suas missões dentro da própria ilha, descobrindo mais de seu povo.
 	- Nigel: As missões do Nigel vão o direcionar a lugares cada vez mais estranhos, com o maior problema sendo como ele deveria sair dali.
 	- Morian: Muitas das missões de Morian vão se passar dentro de estabelecimentos privados.
-	- Nyakko: Ela terá vários conflitos com moradores locais para conseguir o que quer.
+	- Nyakko: Ela terá vários conflitos com moradores locais para conseguir o que quer. Principalmente, ela deve sentir que tem sempre um relógio.
 	- Idriss: Idriss deverá resolver a problemática por, de alguma forma, persuadir um grupo insatisfeito de pessoas a fazer o que deseja.
-	- Vrastz: Se Bellax não estiver presente, Vrastz vai ser quem vai causar a ruptura por perder o dispositivo para uma criatura que vai o quebrar de tal forma que negative a pontuação de todos. Ele deverá resolver suas problemáticas por aprender a mentir. Principalmente, ele deve ser motivado a usar as funcionalidades de furto no sistema.
+	- Vrastz: Se Bellax não estiver presente, Vrastz vai ser quem vai causar a ruptura por perder o dispositivo para uma criatura que vai o quebrar de tal forma que negative a pontuação de todos. Ele deverá resolver suas problemáticas por aprender a mentir. Os moradores da ilha vão estar pouquíssimo cooperativos já que viviam sobre muitas potencias de mitologia.
 	- Bellax: Na sua terceira missão, Bellax vai sofrer algum tipo de "bug" que vai quebrar metade de seu corpo e originar o efeito de sangue duplo. Esse evento vai negativar a pontuação do time completamente.
 - Após 3 sessões, todos vão receber o novo objetivo de "obter seu CD", mas sem um ponto específico. Esse é o fim do ato 0.
   

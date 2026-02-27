@@ -10,6 +10,9 @@
 **Demetr Ardere**
  Relacionado diretamente com [Nyakko Meowny](teste/RE-FRESH/PERSONAGENS/KIDS/Nyakko Meowny.md) por ter sido a antiga guardiã troll dela.
 
-**Geryoness**
- Relacionada diretamente com [Vrastz Fernak](teste/RE-FRESH/PERSONAGENS/KIDS/Vrastz Fernak.md) por ser a guardiã dele.
+**Pai de Nigel**
+ Relacionado diretamente com [Nigel Wells](teste/RE-FRESH/PERSONAGENS/KIDS/Nigel Wells) por ser seu responsável.
+
+**Pais de Nora e Marie, Cientista + Monge**
+ Relacionados diretamente com [Nora Eugênia](teste/RE-FRESH/PERSONAGENS/KIDS/Nora Eugênia) e [Marie Macillia](teste/RE-FRESH/PERSONAGENS/KIDS/Marie Macillia) por serem seus responsáveis, O monge sendo o parente biológico de Marie e o cientista sendo adotivo de ambas. Eles estão em um relacionamento platônico-romântico.
 

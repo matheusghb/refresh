@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a9ab1dd66ed6613",
+            "id": "257ecaca8e0a1289",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/RE-FRESH/PERSONAGENS/OUTROS PERSONAGENS.md",
+                "file": "teste/RE-FRESH/SESSÕES/ROUND 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OUTROS PERSONAGENS"
-            }
-          },
-          {
-            "id": "4166e4ed5fc6c7cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste/RE-FRESH/sketchs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sketchs"
-            }
-          },
-          {
-            "id": "7fed334646fca6b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste/RE-FRESH/WORLD BUILDING/FULL HOUSE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FULL HOUSE"
+              "title": "ROUND 1"
             }
           }
         ]
@@ -197,14 +169,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a9ab1dd66ed6613",
+  "active": "257ecaca8e0a1289",
   "lastOpenFiles": [
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Idriss Judici.md",
+    "teste/RE-FRESH/WORLD BUILDING/LOCAIS.md",
+    "teste/RE-FRESH/SESSÕES/ROUND 1.md",
     "teste/RE-FRESH/PERSONAGENS/OUTROS PERSONAGENS.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Bellax Willow.md",
-    "teste/RE-FRESH/sketchs.md",
     "teste/RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAS.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOTAS.md",
+    "teste/RE-FRESH/SESSÕES/(E) Login..md",
+    "teste/RE-FRESH/sketchs.md",
     "teste/RE-FRESH/WORLD BUILDING/FULL HOUSE.md",
+    "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md",
+    "teste/RE-FRESH/PERSONAGENS/KIDS/Idriss Judici.md",
+    "teste/RE-FRESH/PERSONAGENS/KIDS/Bellax Willow.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Vrastz Fernak.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Ricino Flamel.md",
     "teste/RE-FRESH/WORLD BUILDING/+ALTERNIA.md",
@@ -217,11 +196,7 @@
     "teste/RE-FRESH/PERSONAGENS/KIDS/Morian Baster.md",
     "teste/RE-FRESH/WORLD BUILDING/+PROSPIT & +DERSE.md",
     "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
-    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
-    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAS.md",
     "teste/RE-FRESH/WORLD BUILDING/LANDS/LOPAF.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Bellax.md",
-    "teste/RE-FRESH/WORLD.md",
     "242_Sem_Titulo_20251013202152.webp",
     "Untitled.base"
   ]
