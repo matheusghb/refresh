@@ -11,7 +11,13 @@ Cena 1 - Evidência
 
 Cena 2 - Discussão
 > O palácio vai estar parcialmente cheio ao encontrarem ele, uma multidão barulhenta do lado de fora impede de tirarem os olhos da localidade. Acontece que um representante governamental está combatendo uma empresa pelo direito de controlar um terreno que foi tomado por persuasão da empresa.
->  Após permitir que um homem analfabeto assinasse um contrato que um funcionário leu, ele foi omitido a parte que a tomada de decisões em momentos de urgência ficaria no lado da empresa para "manter mercadoria", onde acusações criminais contra o dono original seriam utilizadas para retirar ele da localidade e deixar a empresa como única dona caso nenhum herdeiro seja entregue. Eles incriminaram cidadões comuns para roubar suas terras. 
+
+> HURDRI AGRO:
+>  Após permitir que um homem analfabeto assinasse um contrato que um funcionário leu, ele foi omitido a parte que a tomada de decisões em momentos de urgência ficaria no lado da empresa para "manter mercadoria", onde acusações criminais contra o dono original seriam utilizadas para retirar ele da localidade e deixar a empresa como única responsável caso nenhum herdeiro seja entregue. Ocorre que, caso o dono original não esteja disponível, o terreno será utilizado de maneira "temporária" pela empresa que vai trancar qualquer oportunidade de um herdeiro enquanto roubam os lucros.
+>  
+>  O governo, agora, deseja retirar uma porcentagem considerável dos ganhos totais das safras mensais por conta da descoberta do esquema geral dessa empresa. Eles aceitaram firmar uma negociação dentro do palácio, o que chamou atenção dos relacionados e, principalmente, dos afetados, criando a multidão na entrada.
+
+> A cena vai iniciar com o Idriss adentrando depois de ser introduzido ao palácio e se encontrando com um conflito entre dois adolescentes de idade similar, um deles se incomodando que o outro decidiu começar a comer uma das frutas em exposição. O que comeu é Telefo e o troll incomodado será Perseu. Telefo fará parte da empresa HURDRI e vai incomodar Perseu por comer material público sem autorização (ele o questiona o que faria se não fosse dele), e Telefo retruca discutindo que sua mãe já tem todos os direitos das frutas naquele local
 
 Cena 3 - Julgamento
 
