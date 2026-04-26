@@ -11,5 +11,5 @@
 - Alnilam
 
 - Metrocities
-- Desertos em esmo 
+- Esmos
 - Bolhas

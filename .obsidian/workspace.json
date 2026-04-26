@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ROUND 1"
             }
+          },
+          {
+            "id": "a582ccf027c4749d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FILTRO - Expired-OmnipotentServent"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -160,28 +175,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "257ecaca8e0a1289",
+  "active": "a582ccf027c4749d",
   "lastOpenFiles": [
-    "teste/RE-FRESH/WORLD BUILDING/LOCAIS.md",
-    "teste/RE-FRESH/SESSÕES/ROUND 1.md",
+    "teste/RE-FRESH/EVENTOS/Entrada no MEDIUM.md",
+    "teste/RE-FRESH/PERSONAGENS/CARASPACIANS.md",
     "teste/RE-FRESH/PERSONAGENS/OUTROS PERSONAGENS.md",
     "teste/RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
+    "teste/RE-FRESH/WORLD BUILDING/LOCAIS.md",
+    "teste/RE-FRESH/EVENTOS/unRECKONING.md",
+    "teste/RE-FRESH/EVENTOS/SBURB+.md",
+    "teste/RE-FRESH/EVENTOS/RE-FRESH.md",
+    "teste/RE-FRESH/EVENTOS/NG+.md",
+    "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+    "teste/RE-FRESH/SESSÕES/ROUND 1.md",
+    "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md",
+    "teste/RE-FRESH/WORLD BUILDING/FULL HOUSE.md",
+    "teste/RE-FRESH/sketchs.md",
     "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
     "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAS.md",
     "teste/RE-FRESH/WORLD BUILDING/LANDS/LOTAS.md",
     "teste/RE-FRESH/SESSÕES/(E) Login..md",
-    "teste/RE-FRESH/sketchs.md",
-    "teste/RE-FRESH/WORLD BUILDING/FULL HOUSE.md",
-    "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Idriss Judici.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Bellax Willow.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Vrastz Fernak.md",
@@ -189,14 +211,7 @@
     "teste/RE-FRESH/WORLD BUILDING/+ALTERNIA.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Marie Macillia.md",
     "teste/RE-FRESH/WORLD BUILDING/+SKAIA.md",
-    "teste/RE-FRESH/PERSONAGENS/CARASPACIANS.md",
     "teste/RE-FRESH/PERSONAGENS/KIDS/Nyakko Meowny.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Nora Eugênia.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Nigel Wells.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Morian Baster.md",
-    "teste/RE-FRESH/WORLD BUILDING/+PROSPIT & +DERSE.md",
-    "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
-    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOPAF.md",
     "242_Sem_Titulo_20251013202152.webp",
     "Untitled.base"
   ]
