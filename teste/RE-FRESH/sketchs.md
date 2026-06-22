@@ -143,10 +143,11 @@ Ato 0
 	- Morian: Muitas das missões de Morian vão se passar dentro de estabelecimentos privados.
 	- Nyakko: Ela terá vários conflitos com moradores locais para conseguir o que quer. Principalmente, ela deve sentir que tem sempre um relógio.
 	- Idriss: Idriss deverá resolver a problemática por, de alguma forma, persuadir um grupo insatisfeito de pessoas a fazer o que deseja.
-	- Vrastz: Se Bellax não estiver presente, Vrastz vai ser quem vai causar a ruptura por perder o dispositivo para uma criatura que vai o quebrar de tal forma que negative a pontuação de todos. Ele deverá resolver suas problemáticas por aprender a mentir. Os moradores da ilha vão estar pouquíssimo cooperativos já que viviam sobre muitas potencias de mitologia.
-	- Bellax: Na sua terceira missão, Bellax vai sofrer algum tipo de "bug" que vai quebrar metade de seu corpo e originar o efeito de sangue duplo. Esse evento vai negativar a pontuação do time completamente.
-- Após 3 sessões, todos vão receber o novo objetivo de "obter seu CD", mas sem um ponto específico. Esse é o fim do ato 0.
+
+- Após 3 sessões, todos vão receber o novo objetivo de "alcançar seu portão". A partir deste momento, 3 portões vão se abrir nas proximidades de cada dupla de player com 3 indivíduos especiais com o único intuito de encontrar e matar os jogadores antes de entrar no portão. Para cada:
   
-  Ato 1 
-  - Apenas algumas pessoas jogaram a versão demo de FULL HOUSE para fazer parte de um sorteio da versão de completa gratuitamente com conteúdo adicional, enviada para apenas um dos grupos que jogaram o jogo.
-  - 
+  - Idriss e Marie: Conquista
+  - Nyakko e Morian: Fome
+  - Nora e Nigel: Guerra
+
+- A morte vai se um evento que vai introduzir eles ao jogo. 
