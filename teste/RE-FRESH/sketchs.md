@@ -11,8 +11,6 @@ A terra exilada será usada pelo rei branco para reconstruir um novo scepter qua
 
  Todo o processo anterior se trata de um "plano B" de Derse caso o scepter não seja encontrado, visto que não haverá progresso de ambos dos lados caso tentem se combater (mesmo "exilada", a ranha manteve o anel). Da mesma forma, a rainha de prospit não tentará atacar pelo mesmo motivo, ambos focando em encontrar o scepter **por meio dos players**. 
 
-Nigel vai conduzir o caminho para as informações sobre o Filtro sejam descobertas e, por tabela, um método para destruir ele. Ao mesmo tempo, os horrorterrors vão se opor a isso, desejando a própria destruição, e irão antagonizar o Nigel por eventos de má sorte. O Nigel vai receber muitas informações falsas que podem o distrair da rota correta da sessão, já que os horrorterrors tomaram interesse nele.
-
 o rei branco influenciou a própria criação da terra por ser aquele que criou o LUCA (Last Universal Common Ancestor), dois girinos (um branco e um preto) que criariam toda a vida na terra. 
 
 Alternia esta presente no sistema solar do universo import, onde os asteroides são pedaços do planeta anterior. 
@@ -70,11 +68,9 @@ havera uma espada flamejante com o poder de estagnar ou negar entrada
 A jornada começa SEM UMA TIMELINE ALPHA. A partir do momento que alcançarem o Medium, vão estar em sessões diferentes com pessoas diferentes (4 em uma e 4 em outra com versões alternativas), mas nenhum deles vai notar. Isso se da ao fato que Skaia não possuía métodos para preparar a sessão naturalmente, então utilizou de timelines doomed para permitir que eles ao menos alcancem suas Lands, mas precisando eventualmente resolver isso com uma "troca de disco" (knight of time e knight of mind sendo responsáveis por isso). As versões doomed vão morrer nesse processo, trocando a consciência dos dreamselves com as versões reais e permitindo que apenas os "reais" sobrem.
 
 idriss A
-stella A
 morian A
 marie A
 
-vrastz B
 nyakko B
 nora B
 nigel B

@@ -1,2 +1,21 @@
-A sessão de **RE-FRESH** se passa após uma outra sessão que estava **Null** após intervenção de **Echidna** de matar a **Spacebound** do grupo. Essa sessão foi encerrada com o próprio **REFRESH**, que concluiu nos efeitos exóticos vistos dentro da sessão de seus descendentes, mas que serviu como a carta na manga para os descendentes derrotar o **[FILTRO](obsidian://open?vault=teste&file=RE-FRESH%2FEVENTOS%2FFILTRO%20-%20Expired-OmnipotentServent)** que estaria destinado a assolar sua sessão. Chamaremos a primeira sessão de IMPORT e a próxima de EXPORT, visto que o evento não afeta a timeline (ou até a sessão diretamente).
- A Sessão IMPORT era uma sessão comum de **8 jogadores** de raças variantes entre **Humanos e Trolls** que estava predestinada a ganhar pelos métodos normais, tendo jogadores competentes e até classes apropriadas como o **Knight of Space** e a **Seer of Time**. Porém, por ironia do destino, sua sessão era exatamente a que predestinava a chegada do **[FILTRO](obsidian://open?vault=teste&file=RE-FRESH%2FEVENTOS%2FFILTRO)** potente o suficiente para impedir não só a proliferação de um novo universo, mas possivelmente até a destruição completa de qualquer iteração do próprio Paradox Space. Por conta disso, Echidna se aproximou da Knight of Space prematuramente para entregar **A Escolha** antes mesmo dos outros jogadores entrar no Medium, com total falta de preparo. Echidna disse: **Ela poderia aceitar uma morte rápida e inevitável no futuro para tudo além dela Ou encerrar sua vida e condenar a sesssão para servir de ponte para que o mundo futuro tenha chance de proliferar.** No momento, não teria como saber, mas ela estaria para decidir se permitiria a destruição do Paradox Space ou destruiria toda a sua sessão para dar uma chance ao próximo universo. Skaia não tinha como interferir nessa escolha, não mais, mas sabia que ela aceitaria. Ela sempre aceitaria.
+Um grupo de 7 adolescentes chegam a se conhecer dentro de uma rede social denominada "Pesterchum", moldada diretamente para permitir comunicação extraterreste com o intuito de recrutar indivíduos para uma excursão interestelar, onde todas as sociedades participantes estavam passando por uma época não descrita de extinção. Foram 3 humanos e 4 trolls, com nomes e funções como descritas a seguir:
+
+- **Darla Goliath** (atualmente EGM Expired-galacticMannerism). Humana. Heir of Space.
+- **Kokany Yownem** (atualmente EDA Expired-damnationAddict) Oliveblood. Seer of Time.
+- **Mari Resbata** (atualmente EVC Expired-vectoredCandidate). Humana. Prince of Mind.
+- **Geroai Naniui** (atualmente EJN Expired-justifiableNobles). Bronzeblood. Witch of Light.
+- **Leginn Lwesel** (ENI Expired-negociableIncrements). Rustblood. Knight of Void.
+- **Phil Pilatus** (homunculiExibit) Humano. ? of Doom.
+- **Cissud Dirjii** (atualmente EDS Expired-denouncedSense). Fuschiablood. Page of Heart.
+
+Mais informações [aqui.](teste/RE-FRESH/EVENTOS/RE-FRESH)
+
+A rede social se manteve disponível por 3 anos terrestres consecutivos e comportou cerca de 1,8 milhões de usuários em sua totalidade e foi encerrado após a última atualização que disponibilizou o evento coerente com o sburb de cada sociedade, padronizado de forma que todos automaticamente adentrem em suas respectivas sessões. Cada indivíduo do grupo descrito aqui teve apoio direto dos seus responsáveis na entrada, fazendo com que ela tivesse sucesso sem interrupções. Na verdade, nem ocorreu uma catastrofe, com alguns até interrompendo momentâneamente para adentrar em outro momento.
+
+Kokany, Mari e Leginn entraram primeiro.
+
+ Kokany teve o maior entusiasmo de se direcionar ao jogo, esperando o tratamento especial
+
+Cissud e Phil entradam em segundo.
+Geroai em terceiro.
+Darla em quarto, por último.

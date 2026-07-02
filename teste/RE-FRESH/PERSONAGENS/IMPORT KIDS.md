@@ -8,13 +8,13 @@ Konaky Yownem (EDA Expired-damnationAddict)
 	Seer of Time, oliveblood, derse - Ancestor da Nyakko
 		Recebeu o plano de Helphestus para paralizar Skaia com EOS dentro para evitar a materialização de [EOS](obsidian://open?vault=RE-FRESH&file=EVENTOS%2FFILTRO%20-%20Expired-OmnipotentServent) dentro o sistema externo de Skaia, usando então essa sessão como "isca". Esteve sumida por toda a sessão, ouvindo as palavras de Helphaestus e esperando até o scratch para iniciar o processo de selamento utilizando do conceito do zero absoluto, que estaria presente no centro do planeta.
 		Sua inversão é a **Witch of Space.** - Ela não se confortava com jeito que sua previsão ocorreu, inconformada pela perca de uma amiga querida, condenando a si mesma por antes pensar nisso como uma forma incontestável de resolução. Ao pressentir que poderia ter feito algo, ela inverteu, definindo que a Heir Não Deveria Ter Morrido. Essa fixação por sempre correr atrás de modificar o Tempo a impediu de fixar no que estava na sua frente, procurando sempre outra opção.
-   EDA: Eu converso de forma metód!ca e def!n!t!va. Mu!tas pontuações. Não há ma!s o que falar sobre !sso. [CÂMBIO]
+   EDA: Eu converso de forma metód!ca e def!n!t!va. Mu!tas pontuações. Não há ma!s o que falar sobre !sso. \[CÂMBIO]
 	
 Leginn Sewlls (ENI Expired-negociableIncrements)
 	Knight of Void, rustblood, derse - Ancestor do Nigel
 		Contatou os horrorterrors para armazenar o grist de todas as timelines que ficariam doomed. Em troca, ele os levaria para a sessão resultante, sem saber a motivação. Isso tudo foi feito em segredo, e o Mage of Rage se frustrou ao descobrir a quantidade de sofrimento que isso causou.
 		Sua inversão é o **Rogue of Light.** - Leginn não conseguiu aguentar o peso do Vazio que ele tinha que servir, na escuridão, em um momento tão inoportuno, e nunca conseguiu manter um segredo do Mage of Rage. Essa intimidade intimidou o mage of Rage, odiando o Sofrimento que seu "amigo" tinha que passar, o invertendo. 
-   ENI: \_\_Com ENI na sigla, eu só poderia falar de forma ugetgvkxc[2], né ?arrop[<-] Mas eu faço isso de forma bem seletiva, dependendo só de com [17 - 21 - 05 - 13 \ 05 - 19 - 20 - 15 - 21 ][1=A] falando, normalmente optando pelo [<-] para censuras. Sou um pouco defensivo.__
+   ENI: \_\_Com ENI na sigla, eu só poderia falar de forma ugetgvkxc\[2], né ?arrop\[<-] Mas eu faço isso de forma bem seletiva, dependendo só de com \[17 - 21 - 05 - 13 \ 05 - 19 - 20 - 15 - 21 ]\[1=A] falando, normalmente optando pelo \[<-] para censuras. Sou um pouco defensivo.__
 	
 Sashar Euroh (EJN Expired-justifiableNobles)
 	Witch of Light, Jadeblood, prospit - Ancestor da Nora
@@ -37,18 +37,13 @@ EGM: Dadá
 EDA: Coroa
 ENI: 
 ENJ: 71
-EFS:
 EPJ: Tasmânia
 EDS: 
 	
 Phil Pilatus (EHE Expired-homunculiExibit)
-	Mage of Life, oliveblood, Prospit - Ancestor do Ricino
+	Mage of Life, oliveblood, Prospit - Sem descendente
 		Agiu simultaneamente com a Seer para coordenar o time, escrevendo o plano de como ficaria a sessão export, basicamente planejando os planetas enquanto os outros focavam na sessão em mãos. Obteve os aneis da Witch of Light para esse fim, utilizando de suas visões para a inspirar.
-		Sua inversão é a **Bard of Rage.** - 
-	
-Macs Milenum (EWP Expired-wittyProcessing)
-	Rogue of Doom, Derse - Ancestor da Bellax
-		Criou o Backdoor ao sacrificar o Mage of Life para abrir um 
+		Sua inversão é a **Bard of Rage.**  
 	
 Drisix Sudis (EDS Expired-denouncedSense)
 	Page of Heart, fuschiablood, derse - Ancestor do Idriss

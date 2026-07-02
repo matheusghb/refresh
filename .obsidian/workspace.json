@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "257ecaca8e0a1289",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste/RE-FRESH/SESSÕES/ROUND 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROUND 1"
-            }
-          },
-          {
             "id": "a582ccf027c4749d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+                "file": "teste/RE-FRESH/ARCOS/ACT 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FILTRO - Expired-OmnipotentServent"
+              "title": "ACT 0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,32 +171,33 @@
   },
   "active": "a582ccf027c4749d",
   "lastOpenFiles": [
-    "teste/RE-FRESH/EVENTOS/Entrada no MEDIUM.md",
-    "teste/RE-FRESH/sketchs.md",
-    "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
-    "teste/RE-FRESH/PERSONAGENS/CARASPACIANS.md",
-    "teste/RE-FRESH/PERSONAGENS/OUTROS PERSONAGENS.md",
-    "teste/RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
     "teste/RE-FRESH/WORLD BUILDING/LOCAIS.md",
-    "teste/RE-FRESH/EVENTOS/unRECKONING.md",
-    "teste/RE-FRESH/EVENTOS/SBURB+.md",
-    "teste/RE-FRESH/EVENTOS/RE-FRESH.md",
-    "teste/RE-FRESH/EVENTOS/NG+.md",
     "teste/RE-FRESH/SESSÕES/ROUND 1.md",
-    "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md",
-    "teste/RE-FRESH/WORLD BUILDING/FULL HOUSE.md",
-    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
-    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAS.md",
-    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOTAS.md",
-    "teste/RE-FRESH/SESSÕES/(E) Login..md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Idriss Judici.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Bellax Willow.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Vrastz Fernak.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Ricino Flamel.md",
+    "teste/RE-FRESH/ARCOS/ACT 0.md",
     "teste/RE-FRESH/WORLD BUILDING/+ALTERNIA.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Marie Macillia.md",
-    "teste/RE-FRESH/WORLD BUILDING/+SKAIA.md",
-    "teste/RE-FRESH/PERSONAGENS/KIDS/Nyakko Meowny.md",
+    "teste/RE-FRESH/SESSÕES/(E) Login..md",
+    "teste/RE-FRESH/EVENTOS/RE-FRESH.md",
+    "teste/RE-FRESH/PERSONAGENS/IMPORT KIDS.md",
+    "teste/RE-FRESH/sketchs.md",
+    "teste/RE-FRESH/PERSONAGENS/KIDS/Morian Baster.md",
+    "teste/RE-FRESH/EVENTOS/NG+.md",
+    "teste/RE-FRESH/EVENTOS/FILTRO - Expired-OmnipotentServent.md",
+    "teste/RE-FRESH/EVENTOS/Entrada no MEDIUM.md",
+    "teste/RE-FRESH/WORLD BUILDING/+EARTH.md",
+    "teste/RE-FRESH/WORLD BUILDING/FULL HOUSE.md",
+    "teste/RE-FRESH/ARCOS",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOTAS.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAT.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOSAD.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LORAT.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOPAF.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOGAM.md",
+    "teste/RE-FRESH/WORLD BUILDING/LANDS/LOCAD.md",
+    "teste/RE-FRESH/EVENTOS/SBURB+.md",
+    "teste/RE-FRESH/EVENTOS/unRECKONING.md",
+    "teste/RE-FRESH/PERSONAGENS/OUTROS PERSONAGENS.md",
+    "teste/RE-FRESH/PERSONAGENS/CARASPACIANS.md",
+    "teste/RE-FRESH/SESSÕES/SESSÃO Z1.md",
     "242_Sem_Titulo_20251013202152.webp",
     "Untitled.base"
   ]
